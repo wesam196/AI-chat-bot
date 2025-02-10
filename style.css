@@ -1,0 +1,8 @@
+#chatBox{
+    overflow-y: scroll;
+    height: 50vh
+}
+#respon{
+    width: 50vh;
+    overflow: hidden;
+}
